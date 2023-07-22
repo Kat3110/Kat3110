@@ -11,7 +11,7 @@
 ---
 
 ### :paperclip: About Me :
-I am a Front end Developer from Russia.
+I am a Frontend Developer from Russia.
 - :computer: Contribute to frontend to create web applications.
 
 - :earth_asia: In my free time, I take courses and read articles to improve my skills, I study English and Spanish.

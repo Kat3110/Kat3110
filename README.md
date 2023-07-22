@@ -20,6 +20,7 @@ I am a Front end Developer from Russia.
 
 - :mailbox:How to reach me: &nbsp; <img src="https://github.com/Kat3110/Kat3110/assets/87698261/400292d8-d6ae-47aa-a794-b382fead633d" alt="Telegram" width="20" height="20"  align="center"/> &nbsp; [Telegram](https://t.me/kat_kitsu "Телеграм")
 
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>

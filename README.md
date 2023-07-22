@@ -1,10 +1,10 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFtcTI1bDR6dXMyZnZybjB5d2ExbHF2NHdkeHdmeXEzYnAwczZ3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/43LjhmwNEPsqM2xlSV/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="600"/>
   <h1>
     Нey there
-    <img src='https://media.giphy.com/media/SuZY20qLNE3Hq/giphy.gif' width="20px" />
+    <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDU2Y3ByMGxobWMwYnZjbWlzc3cwODZmdGN6aW9vamR5OWpxb2p4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v0dGnTDFgEr68myH0C/giphy.gif' width="40px" />
   </h1>
 </div>
 

@@ -16,11 +16,10 @@ I am a Front end Developer from Russia.
 
 - :earth_asia: Шn my free time, I take courses and read articles to improve my skills, I study English and Spanish.
 
-- :zap: I`m engaged in volunteering helping homeless animals.
+- :paw_prints: I`m engaged in volunteering helping homeless animals.
 
-- :mailbox:How to reach me: [Telegram](https://t.me/kat_kitsu "Телеграм")
+- :mailbox:How to reach me: [Telegram](https://t.me/kat_kitsu "Телеграм") :iphone:
 
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>

@@ -14,7 +14,7 @@
 I am a Front end Developer from Russia.
 - :computer: Contribute to frontend to create web applications.
 
-- :earth_asia: Шn my free time, I take courses and read articles to improve my skills, I study English and Spanish.
+- :earth_asia: In my free time, I take courses and read articles to improve my skills, I study English and Spanish.
 
 - :paw_prints: I`m engaged in volunteering helping homeless animals.
 

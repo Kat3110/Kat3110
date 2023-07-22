@@ -24,15 +24,19 @@ I am a Frontend Developer from Russia.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' title='React' alt='React' width='40' height='40'/>&nbsp;
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg' title='Vue' alt='Vue' width='40' height='40' />&nbsp;
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg' title='Vuetify' alt='Vuetify' width='40' height='40' />&nbsp;
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg' title='Material UI' alt='Material UI' width='40' height='40'/>&nbsp;
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'  title='CSS3' alt='CSS' width='40' height='40'/>&nbsp;
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' title='Sass' alt='Sass' width='40' height='40' />&nbsp;
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' title='HTML5' alt='HTML' width='40' height='40'/>&nbsp;
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' title='JavaScript' alt='JavaScript' width='40' height='40'/>&nbsp;
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg' title='Next' alt='Next' width='40' height='40' />&nbsp;
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg' title="Bitbucket" **alt="Bitbucket" width="40" height="40" />&nbsp;
+  <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/react.svg' title='React' alt='React' width='40' height='40'/>&nbsp;
+  <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/vuedotjs.svg' title='Vue' alt='Vue' width='40' height='40' />&nbsp;
+  <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/vuetify.svg' title='Vuetify' alt='Vuetify' width='40' height='40' />&nbsp;
+  <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/mui.svg' title='Material UI' alt='Material UI' width='40' height='40'/>&nbsp;
+  <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/css3.svg'  title='CSS3' alt='CSS' width='40' height='40'/>&nbsp;
+  <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/cssmodules.svg'  title='CSSModules' alt='CSSModules' width='40' height='40'/>&nbsp;
+  <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/sass.svg' title='Sass' alt='Sass' width='40' height='40' />&nbsp;
+  <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/html5.svg' title='HTML5' alt='HTML' width='40' height='40'/>&nbsp;
+  <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/javascript.svg' title='JavaScript' alt='JavaScript' width='40' height='40'/>&nbsp;
+  <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/nextdotjs.svg' title='Next' alt='Next' width='40' height='40' />&nbsp;
+  <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/git.svg' title='Git' alt='Git' width='40' height='40'/>&nbsp;
+  <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/bitbucket.svg' title='Bitbucket' alt='Bitbucket' width='40' height='40' />&nbsp;
+  <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/github.svg' title='GitHub' alt='GitHub' width='40' height='40' />&nbsp;
+  <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/gitlab.svg' title='GitLab' alt='GitLab' width='40' height='40' />&nbsp;
+  
 </div>

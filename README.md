@@ -29,7 +29,6 @@ I am a Frontend Developer from Russia.
   <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/vuetify.svg' title='Vuetify' alt='Vuetify' width='40' height='40' />&nbsp;
   <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/mui.svg' title='Material UI' alt='Material UI' width='40' height='40'/>&nbsp;
   <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/css3.svg'  title='CSS3' alt='CSS' width='40' height='40'/>&nbsp;
-  <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/cssmodules.svg'  title='CSSModules' alt='CSSModules' width='40' height='40'/>&nbsp;
   <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/sass.svg' title='Sass' alt='Sass' width='40' height='40' />&nbsp;
   <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/html5.svg' title='HTML5' alt='HTML' width='40' height='40'/>&nbsp;
   <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/javascript.svg' title='JavaScript' alt='JavaScript' width='40' height='40'/>&nbsp;

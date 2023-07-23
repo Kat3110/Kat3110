@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400"/>
   <h1>
-    Нey there, I`m Katerina
+    Нey guys, I`m Katerina
     <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDU2Y3ByMGxobWMwYnZjbWlzc3cwODZmdGN6aW9vamR5OWpxb2p4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v0dGnTDFgEr68myH0C/giphy.gif' width="40px" />
   </h1>
 </div>

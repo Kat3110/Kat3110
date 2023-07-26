@@ -25,9 +25,9 @@ I am a Frontend Developer from Russia.
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/react.svg' title='React' alt='React' width='40' height='40'/>&nbsp;
+  <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/mui.svg' title='Material UI' alt='Material UI' width='40' height='40'/>&nbsp;
   <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/vuedotjs.svg' title='Vue' alt='Vue' width='40' height='40' />&nbsp;
   <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/vuetify.svg' title='Vuetify' alt='Vuetify' width='40' height='40' />&nbsp;
-  <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/mui.svg' title='Material UI' alt='Material UI' width='40' height='40'/>&nbsp;
   <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/css3.svg'  title='CSS3' alt='CSS' width='40' height='40'/>&nbsp;
   <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/sass.svg' title='Sass' alt='Sass' width='40' height='40' />&nbsp;
   <img src='https://github.com/Kat3110/food-zero/blob/main/public/svg/html5.svg' title='HTML5' alt='HTML' width='40' height='40'/>&nbsp;
